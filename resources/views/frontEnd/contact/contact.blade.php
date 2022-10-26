@@ -30,14 +30,16 @@
             <div class="google-map-area">
                 <!--  Map Section -->
                 <div id="contacts" class="map-area">
-                    <div id="googleMap" style="width:100%;height:485px;"></div>
+                    <div id="googleMap">
+                        <iframe style="width:100%; height:485px;" src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d29218.54933561594!2d90.38173928800269!3d23.736013149731747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m5!1s0x3755b8acae265acf%3A0xb8960af792228384!2sDhanmondi%2027%2C%20Dhaka%201205!3m2!1d23.756151!2d90.375233!4m3!3m2!1d23.716210999999998!2d90.418854!5e0!3m2!1sen!2sbd!4v1666619802960!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
                 </div>
             </div>
         </div>
         <!--Start of Contact Form And info-->
         <div class="container">
             <div class="gray-bg">
-                <div class="row g-0">
+                <div class="row g-0 mt-5">
                     <div class="col-md-4">
                         <div class="contact-info-wrapper d-flex justify-content-center flex-column light-gray-bg">
                             <div class="contact-info-box">
